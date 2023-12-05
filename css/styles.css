@@ -1,0 +1,18 @@
+.previewImg{
+
+    width: 250px;
+    height: 200px;
+
+}
+.vTrade{
+
+    width: 185px;
+    height: 100px;
+}
+.font{
+    font-weight: bold;
+    color: #F3E20A;
+    font-size: xx-large;
+    width: inherit;
+    height: 30px;
+}
