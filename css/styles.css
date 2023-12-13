@@ -4,6 +4,25 @@
     height: 200px;
 
 }
+.previewImgProduct{
+
+    width: 500px;
+    height: 500px;
+
+}
+.navFontT{
+    font-weight: bold;
+    color: black !important;
+    font-size: xx-large;
+    font-family: "Verdana", Times, sans-serif;
+
+}
+.navFontB{
+    font-weight: bolder;
+    color: black !important;
+    font-size: xxx-large;
+    font-family: "Verdana", Times, sans-serif;
+}
 .vTrade{
 
     width: 185px;
@@ -15,4 +34,5 @@
     font-size: xx-large;
     width: inherit;
     height: 30px;
+    font-family: "Verdana", Times, sans-serif;
 }
